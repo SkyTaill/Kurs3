@@ -1,0 +1,22 @@
+package company;
+
+
+
+import java.sql.SQLException;
+
+public class Main {
+
+    public static void main(String[] args) throws SQLException, ClassNotFoundException {
+
+
+      //  HistoryOfChat.putInText(test);
+       HistoryOfChat.creatFile();
+       // HistoryOfChat.takeOfTheFile();
+       // HistoryOfChat.putInText("dd");
+
+        Tab tab=new Tab();
+
+
+
+    }
+}
